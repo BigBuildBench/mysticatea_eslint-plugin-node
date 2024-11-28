@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "test",
+  "version": "0.0.0",
+  "files": [
+    "pub"
+  ],
+  "devDependencies": {
+    "bbb": "0.0.0"
+  }
+}
